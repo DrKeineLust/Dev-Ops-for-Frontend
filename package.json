@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/young/Dev-Ops-for-Frontend#readme",
   "dependencies": {
-    "eslint": "^3.1.1",
+    "eslint": "^7.5.0",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.11",
